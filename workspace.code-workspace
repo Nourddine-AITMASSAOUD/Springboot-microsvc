@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "movie-info-service"
+		},
+		{
+			"path": "movie-catalog-service"
+		},
+		{
+			"name": "ratings-data-service",
+			"path": "ratings-data-service"
+		},
+		{
+			"name": "SpringBoot",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
