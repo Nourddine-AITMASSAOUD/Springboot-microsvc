@@ -1,10 +1,12 @@
 {
 	"folders": [
 		{
-			"path": "movie-info-service"
+			"name": "movie-catalog-service",
+			"path": "movie-catalog-service"
 		},
 		{
-			"path": "movie-catalog-service"
+			"name": "movie-info-service",
+			"path": "movie-info-service"
 		},
 		{
 			"name": "ratings-data-service",
